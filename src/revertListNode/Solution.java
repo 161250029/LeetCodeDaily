@@ -1,7 +1,6 @@
 package revertListNode;
 
 
-
 public class Solution {
     public ListNode reverseList(ListNode pHead){
         ListNode pReversedHead = null; //反转过后的单链表存储头结点
